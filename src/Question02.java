@@ -4,7 +4,7 @@
  *    素数：只能被1或本身整除的数，如：3,5,7,11,131...
  *    判断素数的方法：用一个数分别去除2到自身 Math.sqrt(10)
  */
-public class Question2 {
+public class Question02 {
   public static void main(String[] args){
     int count = 0;
     for (int i = 100; i < 200; i++) {

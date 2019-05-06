@@ -8,7 +8,7 @@ import java.util.Scanner;
  *          2.2和22之间查20，22和222之间查200，依次类推
  *          3.将需要加入的数存放到数组中
  */
-public class Question8 {
+public class Question08 {
   public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
     System.out.print("输入a：");

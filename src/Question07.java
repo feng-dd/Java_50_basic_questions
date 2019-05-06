@@ -7,7 +7,7 @@ import java.util.Scanner;
  *  字母：(大写)65~90、(小写)97~122
  *  空格：32
  */
-public class Question7 {
+public class Question07 {
   public static void main(String[] args){
     int num = 0;//数字的个数
     int letter = 0;//字母的个数

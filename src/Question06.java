@@ -6,7 +6,7 @@ import java.util.Scanner;
  *    最大公约数 bigDivisor : 4  大除小，小除余(循环)，直到余=0，大的数为最大公约数
  *    最小公倍数 multiple : 24   m * n / bigDivisor
  */
-public class Question6 {
+public class Question06 {
   public static void main(String[] args){
     int bigDivisor=0; //定义最大公约数
     int multiple=0; //定义最小公倍数

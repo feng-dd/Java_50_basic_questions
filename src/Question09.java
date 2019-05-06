@@ -3,7 +3,7 @@
  * 程序分析：
  *      因子：一个数可以被因子整除,且因子不会大于这个数的一半
  */
-public class Question9 {
+public class Question09 {
   public static void main(String[] args){
     System.out.print("1000 以内的所有完数有：");
     for (int i = 1; i < 1000 ; i++) {

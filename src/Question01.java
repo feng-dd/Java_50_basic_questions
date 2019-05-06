@@ -7,7 +7,7 @@ import java.util.Scanner;
  *  分析:从三月开始 a[n] = a[n-1]+a[n-2],使用递归
  */
 
-public class Question1 {
+public class Question01 {
   public static void main(String[] args){
     System.out.print("请输入查询的月份:");
     Scanner scanner=new Scanner(System.in);

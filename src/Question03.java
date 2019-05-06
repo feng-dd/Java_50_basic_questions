@@ -3,7 +3,7 @@
  * 例如：153是一个"水仙花数"，因为153=1的三次方＋5的三次方＋3的三次方。
  * 程序分析：利用for循环控制100-999个数，每个数分解出个位，十位，百位。
  */
-public class Question3 {
+public class Question03 {
   public static void main(String[] args){
     System.out.print("属于水仙花数的有：");
     int sum = 0;//水仙花数

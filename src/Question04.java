@@ -7,7 +7,7 @@ import java.util.Scanner;
  * 2.如果n<>k，但n能被k整除，则应打印出k的值，并用n除以k的商,作为新的正整数n,重复执行第一步
  * 3.如果n不能被k整除，则用k+1作为k的值,重复执行第一步
  */
-public class Question4 {
+public class Question04 {
   public static void main(String[] args){
     System.out.print("请输入正整数:");
     Scanner scanner = new Scanner(System.in);
